@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Sach yeu thich cua toi</h1>
+    <h2>Gioi thieu</h2>
+    <div>Toi la mot doc gia dam me ve sach. Duoi day la nhung cuon sach toi thich.</div>
+    <h3>Sach tieu thuyet</h3>
+    <div>Cuon "Dac nhan tam" cua Dale Camegie la mot trong nhung cuon sach tam li hoc kinh dien nhat.</div>
+    <h3>Sach khoa hoc</h3>
+    <div>Cuon "Vu tru trong long ban tay" cua Neil deGrasse Tyson la 1 cuon sach khoa hoc tuyet voi, giup ban hieu ro hon ve vu tru.</div>
+    <h3>Sach kinh doanh</h3>
+    <div>"Bi mat cua su giau co" cua T.Harv Eker la mot cuon sach kinh doanh huu ich. giup ban dinh huong tai chinh cho minh.</div>
+    <h2>Bai viet lien quan</h2>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">10 cuon sach hay nhat ve khoa hoc</a></li>
+        <li><a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">Cach de to thanh mot hoc gia dam me</a></li>
+    </ul>
+    <div>Lien he: Example@gmail.com</div>
+</body>
+</html>
