@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Thong tin ca nhan cua toi</h1>
+    <h2>Ho va ten</h2>
+    <p>Toi nguyen van a, sinh nam xxxxx tai HN</p>
+    <h2>Dia chi</h2>
+    <p>Ha noi</p>
+    <h2>So thich</h2>
+    <p>Meo</p>
+    <h2>Cong tac</h2>
+    <p>hoc vien tai rikkei academy</p>
+
+</body>
+</html>
