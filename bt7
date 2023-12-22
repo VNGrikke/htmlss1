@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Day la trang web cua toi</h1>
+    <p>Day la 1 cach vi du ve dung img</p>
+    <img style="width:200px" src="https://bizweb.dktcdn.net/100/438/408/files/meme-meo-cute-yody-vn-4.jpg?v=1690276115810" >
+    <p>ban co the thay doi anh qua "width", "height"va them thuoc tinh mo ta bang "alt"</p>
+</body>
+</html>
