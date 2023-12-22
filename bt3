@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .avatar {
+        vertical-align: middle;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+    }
+    th,h2,td,i,div{
+        padding-left: 20px;
+      }
+    
+
+</style>
+<body>
+    <table>
+        <thead>
+            <tr>
+            <th rowspan="2"><img src="https://bizweb.dktcdn.net/100/438/408/files/meme-meo-cute-yody-vn-4.jpg?v=1690276115810" alt="Avatar" class="avatar"></th>
+            <th style="font-size: 100px; "><sub>Man Nhu</sub></th>
+            </tr>
+            <tr>
+            <td style="font-size: 50px;color: brown;"><sup>Ki su phan mem</sup></td>
+            </tr>
+        </thead>
+    </table>
+    <h2 style="font-size: medium; text-align: left;">GIOI THIEU</h2>
+    <i>La mot ky su phan mem voi kinh nghiem thuc tien trong toan bo cac buoc kiem thu, bao gom hieu nang, chuc nang, tich hop he thong va tich hop nguoi dung</i>
+    <hr class="solid">
+    <table>
+        <thead>
+            <tr>
+                <th style="font-size: medium;color: brown;">Linh vuc chuyen mon</th>
+                <th style="font-size: medium;color: brown;">Kinh nghiem lam viec</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <ul>
+                        <li>Kinh nghiem thuc te ve SQL</li>
+                        <li>Kinh nghiem ve java, ruby,<br>PHP va Python</li>
+                        <li>Kinh nghiem ve microsoft<br>ASP.NET MBC, Web API</li>
+                        <li>Va kien thuc ung dung ve C,<br>C++, C#</li>
+
+                    </ul>
+                </td>
+                <td style="padding-left: 100px;">
+                    <div style="font-size: medium;">KY SU PHAN MEM</div>
+                    <div>Giai phap Viet Luc | 2015-Hien tai</div>
+                    <ul>
+                        <li>Dinh huong thiet ke va phat trien phan mem</li>
+                        <li> Danh gia giao dien giua phan mem va phan cung</li>
+                        <li>Tu van khach hang ve cach bao tri he thong phan mem</li>
+                    </ul>
+                </td>
+            </tr>
+                      
+        </tbody>
+    </table>
+    <table>
+        <hr>
+        <thead>
+            <tr>
+                <th style="font-size: medium;color: brown;">Thong tin lien he</th>
+                <th style="font-size: medium;color: brown;">Lich su hoc van</th>
+                <th style="font-size: medium;color: brown;">Ky nang khac</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <ul>
+                        <li>SDT: 01248172384</li>
+                        <li>Email: <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">RK@gmail.com</a></li>
+                    </ul>
+                </td>
+                <td>
+                    <ul>
+                        <li>Dang hoc tai PTIT</li>
+                        <li>Hoc van 12/12</li>
+
+                    </ul>
+                </td>
+                <td>
+                    <ul>
+                        <li>Kha nang phan tich cac thong tin phuc tap</li>
+                        <li>Kha nang thiet ke</li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
